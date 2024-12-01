@@ -1,5 +1,6 @@
 # Game_built_using_Random
 This contains 2 games one is about Lottery number winning game and another is Perfect Guess
+
 Lottery Machine:
                 Player should enter his Lottery number, And the programm will compare that lottery number to its inbuilt
 lottery number and will give the results whether player won the lottery or not,
